@@ -1,0 +1,85 @@
+:root {
+    --yellow-vd: #333300;
+    --yellow-d: #808000;
+    --yellow: #ffff00;
+    --yellow-l: #ffff80;
+    --yellow-vl: #ffffcc;
+
+    --violet-vd: #2B182B;
+    --violet-d: #824782;
+    --violet: #ee82ee;
+    --violet-l: #F6BBF6;
+    --violet-vl: #FCE8FC;
+
+    --gray-vd: #1a1a1a;
+    --gray-d: #404040;
+    --gray: #808080;
+    --gray-l: #bfbfbf;
+    --gray-vl: #e6e6e6;
+
+    --red-vd: #330000;
+    --red-d: #800000;
+    --red: #ff0000;
+    --red-l: #ff8080;
+    --red-vl: #ffcccc;
+
+    --fuchsia-vd: #330033;
+    --fuchsia-d: #800080;
+    --fuchsia: #ff00ff;
+    --fuchsia-l: #ff80ff;
+    --fuchsia-vl: #ffccff;
+
+    --pink-vd: #8B696F;
+    --pink-d: #2E2325;
+    --pink: #ffc0cb;
+    --pink-l: #FFDDE3;
+    --pink-vl: #FFF4F6;
+
+    --orange-vd: #332100;
+    --orange-d: #805300;
+    --orange: #ff9900;
+    --orange-l: #ffd280;
+    --orange-vl: #ffedcc;
+
+    --lime-vd: #003300;
+    --lime-d: #008000;
+    --lime: #00ff00;
+    --lime-l: #80ff80;
+    --lime-vl: #ccffcc;
+
+    --green-vd: #001700;
+    --green-d: #004600;
+    --green: #008000;
+    --green-l: #74BA74;
+    --green-vl: #D1E8D1;
+
+    --purple-vd: #170017;
+    --purple-d: #460046;
+    --purple: #800080;
+    --purple-l: #BA74BA;
+    --purple-vl: #E8D1E8;
+
+    --gold-vd: #332b00 ;
+    --gold-d: #806c00 ;
+    --gold: #ffd700 ;
+    --gold-l: #ffec80 ;
+    --gold-vl: #fff7cc ;
+
+    --sky-blue-vd: #002633;
+    --sky-blue-d: #006080;
+    --sky-blue: #00bfff;
+    --sky-blue-l: #80dfff;
+    --sky-blue-vl: #ccf2ff;
+
+    --blue-vd: #000033;
+    --blue-d: #000080;
+    --blue: #0000ff;
+    --blue-l: #8080ff;
+    --blue-vl: #ccccff;
+
+    --cyan-vd: #002633 ;
+    --cyan-d: #006080 ;
+    --cyan: #1a1a1a ;
+    --cyan-l: #80dfff ;
+    --cyan-vl: #ccf2ff ;
+}

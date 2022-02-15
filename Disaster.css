@@ -1,0 +1,163 @@
+.details-btn {
+    text-shadow:
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 15px #fff,
+        0 0 20px #fff,
+        0 0 30px var(--fuchsia),
+        0 0 35px var(--fuchsia),
+        0 0 40px var(--fuchsia),
+        0 0 75px var(--fuchsia),
+        0 0 90px var(--fuchsia),
+        0 0 100px var(--fuchsia);
+    color: #fff;
+    border-color: var(--fuchsia);
+}
+.summary-btn {
+    text-shadow:
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 15px #fff,
+        0 0 20px #fff,
+        0 0 30px var(--lime),
+        0 0 35px var(--lime),
+        0 0 40px var(--lime),
+        0 0 75px var(--lime),
+        0 0 90px var(--lime),
+        0 0 100px var(--lime);
+    color: #fff;
+    border-color: var(--lime);
+}
+.sources-btn {
+    text-shadow:
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 15px #fff,
+        0 0 20px #fff,
+        0 0 30px var(--sky-blue),
+        0 0 35px var(--sky-blue),
+        0 0 40px var(--sky-blue),
+        0 0 75px var(--sky-blue),
+        0 0 90px var(--sky-blue),
+        0 0 100px var(--sky-blue);
+    color: #fff;
+    border-color: var(--sky-blue);
+}
+.videos-btn {
+    text-shadow:
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 15px #fff,
+        0 0 20px #fff,
+        0 0 30px var(--yellow),
+        0 0 35px var(--yellow),
+        0 0 40px var(--yellow),
+        0 0 75px var(--yellow),
+        0 0 90px var(--yellow),
+        0 0 100px var(--yellow);
+    color: #fff;
+    border-color: var(--yellow);
+}
+.stats-container {
+    text-align: center;
+    padding: 10px;
+}
+.stats-container h5 {
+    display: inline;
+    padding: 10px 30px 10px 5px;
+}
+.stats-container p {
+    display: inline;
+}
+#inj-style {
+    color: var(--orange);
+}
+#fatal-style {
+    color: var(--red);
+}
+.details-info-container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
+.details-info-container h6 {
+    display: inline;
+    padding: 15px 30px 15px 10px;
+    color: var(--yellow);
+}
+.details-info-container p {
+    display: inline;
+}
+.details-info-container img {
+    height: 50px;
+    width: 75px;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+.row2 {
+    padding: 5px;
+    margin: 5px 0;
+    width: auto;
+    border-bottom: 1px solid #fff;
+    border-color: var(--gray-d);
+}
+#btn {
+    text-decoration: none;
+    border: 1px solid #fff;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    max-width: 45%;
+    min-width: 100px;
+    margin: 5px;
+    vertical-align: middle;
+    text-align: center;
+}
+.button-container a:link {
+    color: var(--cyan);
+}
+.button-container a:visited {
+    color: var(--sky-blue);
+}
+.button-container a:hover, .button-container a:active {
+    box-shadow: 0 0 30px var(--red);
+}
+.button-container a:active {
+    box-shadow: 0 0 30px var(--gold);
+}
+.button-container {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
+}
+
+/*======================================================== Option Lists ========================================================*/
+
+
+select[data-chosen] {background: #e6e6e6}
+select[data-chosen='opt1'] {background: #ffffff;}
+select[data-chosen='opt2'] {background: #ffffbf;}
+select[data-chosen='opt3'] {background: #ffff7a;}
+select[data-chosen='opt4'] {background: #ffff00;}
+select[data-chosen='opt5'] {background: #ffe200;}
+select[data-chosen='opt6'] {background: #ffc600;}
+select[data-chosen='opt7'] {background: #ffa900;}
+select[data-chosen='opt8'] {background: #ff8d00;}
+select[data-chosen='opt9'] {background: #ff7800;}
+select[data-chosen='opt10'] {background: #ff6000;}
+select[data-chosen='opt11'] {background: #ff4200;}
+select[data-chosen='opt12'] {background: #ff0000;}
+#a {background: #fff;}
+#b {background: #ffffbf;}
+#c {background: #ffff7a;}
+#d {background: #ffff00;}
+#e {background: #ffe200;}
+#f {background: #ffc600;}
+#g {background: #ffa900;}
+#h {background: #ff8d00;}
+#i {background: #ff7800;}
+#j {background: #ff6000;}
+#k {background: #ff4200;}
+#l {background: #ff0000;}
+#m {background: #fff}

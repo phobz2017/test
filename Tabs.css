@@ -1,0 +1,48 @@
+.tab {
+    overflow: hidden;
+    outline: none;
+    width: auto;
+
+}
+.tab button {
+    float: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 20px;
+    width: calc(100%/4);
+    font-family: 'burger_joint_light_jlregular', sans-serif;
+    letter-spacing: 5px;
+    font-weight: 900;
+    background-color: #000;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+    padding: 20px;
+}
+.tab button:hover {
+    transition: 0.6s;
+    text-shadow:
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 15px #fff,
+        0 0 20px #fff,
+        0 0 30px var(--red),
+        0 0 35px var(--red),
+        0 0 40px var(--red),
+        0 0 75px var(--red),
+        0 0 90px var(--red),
+        0 0 100px var(--red);
+    color: #fff;
+    border-color: var(--red);
+}
+.tab button.active {
+    transition: 0.6s;
+    color: #fff;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #fff, 0 0 50px var(--gold), 0 0 40px var(--gold), 0 0 30px var(--gold);
+    border-color: var(--gold);
+}
+.tab-content {
+    display: none;
+    border: 1px solid #fff;
+    border-top: none;
+
+}
